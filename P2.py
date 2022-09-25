@@ -1,6 +1,6 @@
 """
 FP2021 @ IST - Projeto 2 - O Prado
-Feito por Joao Amadeu 98943
+Feito por Joao Amadeu
 """
 
 # -------------------------------------- 2.1.1 TAD posicao -------------------------------------- #
